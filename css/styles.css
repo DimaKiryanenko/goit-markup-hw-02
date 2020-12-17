@@ -51,9 +51,7 @@ ul {
 .site-nav,
 .link .site-contacts,
 .contacts {
-  text-transform: uppercase;
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
@@ -85,7 +83,6 @@ ul {
   color: var(--primari-text-color);
 
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
@@ -96,15 +93,14 @@ ul {
 
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.17;
+  line-height: 1.2;
 }
 /*Команда сайта*/
 .text {
   color: var(--secondary-color);
 
   font-weight: 400;
-  font-size: 1.71;
-  line-height: 24px;
+  line-height: 1.7px;
 }
 
 .name {
@@ -112,7 +108,7 @@ ul {
 
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.19;
+  line-height: 1.2;
 }
 
 .position,
@@ -121,7 +117,7 @@ ul {
 
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.19;
+  line-height: 1.2;
 }
 
 /*Портфолио*/
@@ -163,7 +159,7 @@ footer {
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19;
+  line-height: 1.2;
 }
 
 .logo-footer {
